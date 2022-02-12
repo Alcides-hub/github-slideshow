@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is mysterious work for now!
+I am looking better now. I understand it :)
